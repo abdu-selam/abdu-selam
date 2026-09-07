@@ -1,12 +1,18 @@
 <div align="center">
 
-# Abdu Selam
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Abdu%20Selam&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=MERN-Stack%20Developer&descAlignY=55&descSize=18"/>
 
 ### Full-Stack Developer · TypeScript · MERN
 
 **I build things for the web, break them, understand why, and build them better.**
 
 [Portfolio](https://abdus-portfolio.netlify.app/)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,next,tailwind,vite" />
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;TypeScript+%7C+MERN+%7C+Node.js;Building+Developer+Tools;Turning+Ideas+Into+Software" />
 
 </div>
 
@@ -42,7 +48,7 @@ I enjoy taking an idea from **"this could be useful"** to something people can a
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,zustand" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
 </p>
 
 ### Backend
@@ -56,7 +62,6 @@ I enjoy taking an idea from **"this could be useful"** to something people can a
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Cookies-000000?style=flat-square" />
 </p>
-
 
 ### Beyond the Stack
 
@@ -126,27 +131,6 @@ A responsive company profile website created to present **Aberos and its group o
 
 ---
 
-## Currently Exploring
-
-```text
-Backend Engineering
-    │
-    ├── Node.js
-    ├── System design
-    └── Performance
-              │
-              ▼
-AI Engineering
-    │
-    ├── RAG
-    ├── Embeddings
-    └── AI-powered applications
-```
-
-I'm particularly interested in moving from simply **building applications** toward understanding how to design software that remains maintainable as it grows.
-
----
-
 ## A Few Things About How I Code
 
 **I prefer understanding.**
@@ -170,8 +154,6 @@ Then I find out.
 ## GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdu-selam&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdu-selam&hide_border=true" height="165"/>
 
