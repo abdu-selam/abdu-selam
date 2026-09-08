@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Abdu%20Selam&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=MERN-Stack%20Developer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Abduselam%20Awel&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=MERN-Stack%20Developer&descAlignY=55&descSize=18"/>
 
 ### Full-Stack Developer · TypeScript · MERN
 
