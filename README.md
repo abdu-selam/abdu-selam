@@ -28,21 +28,6 @@ I enjoy taking an idea from **"this could be useful"** to something people can a
 
 ---
 
-## What I Build
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   WEB APPS          APIs              DEVELOPER TOOLS        │
-│                                                              │
-│   React             Node.js           TypeScript             │
-│   Vite              Express           npm packages           │
-│   Tailwind          REST              FFmpeg                 │
-│   Zustand           MongoDB           Browser APIs           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
 ## Tech Stack
 
 ### Frontend
@@ -70,84 +55,6 @@ I enjoy taking an idea from **"this could be useful"** to something people can a
   <img src="https://img.shields.io/badge/FFmpeg-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/npm-000000?style=flat-square&logo=npm&logoColor=white" />
 </p>
-
----
-
-## Selected Work
-
-## Selected Work
-
-### Multi-Media
-
-**A TypeScript media-processing library for Node.js.**
-
-Built around **FFmpeg and FFprobe**, providing a clean API for video metadata, format conversion, audio extraction, trimming, splitting, and file operations.
-
-`TypeScript` `Node.js` `FFmpeg` `FFprobe` `npm`
-
----
-
-### TalentFlow
-
-**A platform connecting clients with freelancers.**
-
-A web-based freelancing platform designed to connect clients with freelancers and provide a structured environment for discovering opportunities and managing freelance workflows.
-
-Built from the ground up with a traditional full-stack architecture using PHP and MySQL.
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
----
-
-### Smart Storage
-
-**A cleaner way to work with browser storage.**
-
-A reusable browser-storage package designed to make working with client-side persistent data more structured, convenient, and type-safe.
-
-`TypeScript` `JavaScript` `Browser API` `npm`
-
----
-
-### Phone Store API
-
-**A backend API for an online phone store.**
-
-A RESTful backend built to power an e-commerce phone store, handling products, users, authentication, and core store operations through a structured Express.js API backed by MongoDB.
-
-Built with a focus on clean API architecture, authentication, database modeling, and reliable backend workflows.
-
-`Node.js` `Express.js` `MongoDB` `Mongoose` `REST API`
-
----
-
-### Aberos
-
-**A modern company profile website built with React.**
-
-A responsive company profile website created to present **Aberos and its group of companies** through a modern, structured interface. The project focuses on clean visual design, responsive layouts, smooth interactions, and a professional user experience.
-
-`React` `JavaScript` `CSS` `React Router`
-
----
-
-## A Few Things About How I Code
-
-**I prefer understanding.**
-
-If I use a library, framework, or abstraction, I want to understand what problem it solves and what's happening underneath it.
-
-**I like reusable solutions.**
-
-If I solve the same problem twice, that's usually a sign that the solution should become a reusable abstraction, utility, or package.
-
-**I build to learn.**
-
-Most of my projects start with a question:
-
-> _"Can I actually build this?"_
-
-Then I find out.
 
 ---
 
