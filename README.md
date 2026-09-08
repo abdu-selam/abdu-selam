@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Abduselam%20Awel&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=MERN-Stack%20Developer&descAlignY=55&descSize=18"/>
+# AbduselamAwel
 
 ### Full-Stack Developer · TypeScript · MERN
 
@@ -47,16 +47,3 @@ I enjoy taking an idea from **"this could be useful"** to something people can a
 
 </div>
 
----
-
-## Let's Build Something
-
-I'm always interested in interesting engineering problems, open-source projects, and ideas worth turning into software.
-
-If something here catches your attention, feel free to explore my repositories.
-
-<div align="center">
-
-`Code • Learn • Build • Repeat`
-
-</div>
