@@ -12,13 +12,9 @@
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,next,tailwind,vite" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;TypeScript+%7C+MERN+%7C+Node.js;Building+Developer+Tools;Turning+Ideas+Into+Software" />
-
 </div>
 
 ---
-
-## `whoami`
 
 I'm a full-stack developer focused on building **modern web applications, APIs, and developer tools**.
 
@@ -30,27 +26,12 @@ I enjoy taking an idea from **"this could be useful"** to something people can a
 
 ## Tech Stack
 
-### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,js" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Cookies-000000?style=flat-square" />
-</p>
-
-### Beyond the Stack
-
-<p>
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
   <img src="https://img.shields.io/badge/FFmpeg-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/npm-000000?style=flat-square&logo=npm&logoColor=white" />
