@@ -43,7 +43,7 @@ I enjoy taking an idea from **"this could be useful"** to something people can a
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdu-selam&hide_border=true&vr=2" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdu-selam&hide_border=true&v=2" height="165"/>
 
 </div>
 
