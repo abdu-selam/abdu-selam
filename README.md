@@ -41,7 +41,7 @@ I enjoy taking an idea from **"this could be useful"** to something people can a
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdu-selam&hide_border=true&v=0a940a3a7572fe66370fa31c7fb64b30b9b09f83" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdu-selam&hide_border=true&v=fab74fe8acd1eea6742451eedb22df0902ecf8e1" height="165"/>
 
 </div>
 
