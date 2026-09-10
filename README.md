@@ -28,10 +28,11 @@ I enjoy taking an idea from **"this could be useful"** to something people can a
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
+  <br >
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,js" />
+  <br >
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
   <img src="https://img.shields.io/badge/FFmpeg-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/npm-000000?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
 ---
