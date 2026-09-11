@@ -1,20 +1,24 @@
+name: Refresh README
+
 on:
   push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
   update-readme:
-    if: github.actor != 'github-actions[bot]'
+    if: "!contains(github.event.head_commit.message, 'chore: update streak cache')"
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update streak cache version
+      - name: Update streak cache
         run: |
-          sed -i "s/&v=[^\"']*/\&v=${{ github.sha }}/" README.md
+          sed -i "s/&v=[^\"']*/\&v=$(date +%s)/" README.md
 
       - name: Commit changes
         run: |
@@ -23,6 +27,10 @@ jobs:
 
           git add README.md
 
-          git diff --cached --quiet || git commit -m "chore: update streak cache"
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
 
+          git commit -m "chore: update streak cache"
           git push
